@@ -6,6 +6,6 @@ public class Main {
         System.out.println("hello git");
         System.out.println("hello lg");
         System.out.println("hello whg");
-        System.out.println("hello hello merge");
+        System.out.println("hello hello hot-fix");
     }
 }
